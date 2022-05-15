@@ -1,4 +1,4 @@
-# project-dashboard1
+# DASHBOARD-VUE
 
 ## Project setup
 ```
